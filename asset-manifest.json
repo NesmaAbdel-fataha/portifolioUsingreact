@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portifolioUsingreact/static/css/main.201f6749.css",
+    "main.js": "/portifolioUsingreact/static/js/main.7a9383ae.js",
+    "static/js/453.ed3810f9.chunk.js": "/portifolioUsingreact/static/js/453.ed3810f9.chunk.js",
+    "static/media/1.png": "/portifolioUsingreact/static/media/1.3404a6fb64ddb1737de0.png",
+    "static/media/2.png": "/portifolioUsingreact/static/media/2.972aa9d46a24176509a2.png",
+    "static/media/4.png": "/portifolioUsingreact/static/media/4.15cf18c398c80813d0e5.png",
+    "static/media/5.png": "/portifolioUsingreact/static/media/5.bbb90cc3ce7667a4e53d.png",
+    "static/media/3.png": "/portifolioUsingreact/static/media/3.464985acd3ea269617d1.png",
+    "static/media/color-sharp.jpg": "/portifolioUsingreact/static/media/color-sharp.44ddac7bfd4acc3cb5cc.jpg",
+    "static/media/astorant2.avif": "/portifolioUsingreact/static/media/astorant2.9ec3fe414f311e3cb4d9.avif",
+    "static/media/6.png": "/portifolioUsingreact/static/media/6.504cc58a3942cfffc0aa.png",
+    "static/media/11.png": "/portifolioUsingreact/static/media/11.6da2a5747b6c16ed0cb9.png",
+    "static/media/22.png": "/portifolioUsingreact/static/media/22.ead7a63bf8d712b3532c.png",
+    "static/media/nav2.jpg": "/portifolioUsingreact/static/media/nav2.81fe54ee15b4be328124.jpg",
+    "static/media/44.png": "/portifolioUsingreact/static/media/44.5c06f385fc76f0af420e.png",
+    "static/media/33.png": "/portifolioUsingreact/static/media/33.72383ec4a63d430ec09d.png",
+    "static/media/background.jpg": "/portifolioUsingreact/static/media/background.36e685d3ba588b38a1d6.jpg",
+    "static/media/brown-sharp.avif": "/portifolioUsingreact/static/media/brown-sharp.5c691ee347f9c0c49e8e.avif",
+    "static/media/revicons.eot": "/portifolioUsingreact/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portifolioUsingreact/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/contact-us.avif": "/portifolioUsingreact/static/media/contact-us.8b529be6e9bf898c3a19.avif",
+    "static/media/revicons.woff": "/portifolioUsingreact/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portifolioUsingreact/index.html",
+    "main.201f6749.css.map": "/portifolioUsingreact/static/css/main.201f6749.css.map",
+    "main.7a9383ae.js.map": "/portifolioUsingreact/static/js/main.7a9383ae.js.map",
+    "453.ed3810f9.chunk.js.map": "/portifolioUsingreact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201f6749.css",
+    "static/js/main.7a9383ae.js"
+  ]
+}
